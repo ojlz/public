@@ -8,12 +8,12 @@ inventados — nada é real).
 
 | Projeto | Demo | Repositório |
 |---|---|---|
-| Autoescola (CFC Modelo) | https://autoescola-ex.vercel.app | https://github.com/ojlz/autoescolashalon |
-| Forma (academia feminina) | https://forma-ex.vercel.app | https://github.com/ojlz/boaforma-navirai |
-| Corpo Academia | https://corpo-ex.vercel.app | https://github.com/ojlz/corpo-saude |
-| MotorFix (oficina) | https://motorfix-ex.vercel.app | https://github.com/ojlz/injetcar |
-| BRASA Fitness (com 3D) | https://brasa-ex.vercel.app | https://github.com/ojlz/pantanal-fitness |
-| Pata Model (veterinária) | https://pata-model.vercel.app | https://github.com/ojlz/stillo-animal |
+| Autoescola (CFC Modelo) | https://autoescola-ex.vercel.app | https://github.com/ojlz/autoescola |
+| BoaMulher (academia feminina) | https://boamulher.vercel.app | https://github.com/ojlz/boamulher |
+| CorpoBom | https://corpobom.vercel.app | https://github.com/ojlz/corpobom |
+| MotorFix (oficina) | https://motorfix-ex.vercel.app | https://github.com/ojlz/motorfix |
+| Panta Academy (com 3D) | https://panta-academy.vercel.app | https://github.com/ojlz/panta-academy |
+| Pata Vet (veterinária) | https://pata-vet.vercel.app | https://github.com/ojlz/pata-vet |
 
 ## Jogos e apps
 
