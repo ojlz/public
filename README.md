@@ -21,4 +21,4 @@ inventados — nada é real).
 |---|---|---|
 | PRF na Estrada (simulador CTB, sem cadastro) | https://prfgame.vercel.app | https://github.com/ojlz/prf |
 | 3rão (pré-venda com PIX de mentira) | *sem demo — precisa de Redis próprio (`npm run seed:ficticio`)* | https://github.com/ojlz/3rao |
-| HashHost (hospedagem de imagens/links) | *em migração — saindo do pythonanywhere (offline)* | https://github.com/ojlz/hashost |
+| HashHost (hospedagem de imagens/links) | *arquivado — sem demo* | *privado* |
