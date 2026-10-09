@@ -13,7 +13,7 @@
 
 | Projeto | Demo | Repositório |
 |---|---|---|
-| PRF na Estrada (simulador CTB, sem cadastro) | https://prfgame.vercel.app | https://github.com/ojlz/prf |
+| PRF na Estrada (simulador CTB, sem cadastro) | https://prfbr.vercel.app | https://github.com/ojlz/prf |
 | 3rão (pré-venda, ficticia) | https://3rao.vercel.app | https://github.com/ojlz/3rao |
 | Dog Burger & Café (hamburgueria) | https://dog-burger-site.vercel.app | https://github.com/ojlz/dog-burger-site |
 | Casa do Pastel da Hora (pastelaria + admin) | https://pasteldahora.vercel.app | https://github.com/ojlz/cph |
