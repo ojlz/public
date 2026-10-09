@@ -1,9 +1,3 @@
-# 🌐 Demos públicas — ojlz
-
-Índice de todos os projetos com demo aberta. Todos os sites de portfólio
-usam **dados 100% fictícios** (nomes, telefones, endereços e mapas
-inventados — nada é real).
-
 ## Landing pages (portfólio)
 
 | Projeto | Demo | Repositório |
@@ -20,5 +14,5 @@ inventados — nada é real).
 | Projeto | Demo | Repositório |
 |---|---|---|
 | PRF na Estrada (simulador CTB, sem cadastro) | https://prfgame.vercel.app | https://github.com/ojlz/prf |
-| 3rão (pré-venda com PIX de mentira) | https://3rao.vercel.app | https://github.com/ojlz/3rao |
+| 3rão (pré-venda, ficticia) | https://3rao.vercel.app | https://github.com/ojlz/3rao |
 | HashHost (hospedagem de imagens/links) | *arquivado — sem demo* | *privado* |
