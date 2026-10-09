@@ -15,4 +15,7 @@
 |---|---|---|
 | PRF na Estrada (simulador CTB, sem cadastro) | https://prfgame.vercel.app | https://github.com/ojlz/prf |
 | 3rão (pré-venda, ficticia) | https://3rao.vercel.app | https://github.com/ojlz/3rao |
+| Dog Burger & Café (hamburgueria) | https://dog-burger-site.vercel.app | https://github.com/ojlz/dog-burger-site |
+| Casa do Pastel da Hora (pastelaria + admin) | https://cph-pxzys-projects.vercel.app | https://github.com/ojlz/cph |
+| Brayan Beef (açougue) | https://brayanbeef.vercel.app | https://github.com/ojlz/brayanbeef |
 | HashHost (hospedagem de imagens/links) | *arquivado — sem demo* | *privado* |
